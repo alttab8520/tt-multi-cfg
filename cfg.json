@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "message": "",
-  "latest_version": "2.0.0",
+  "latest_version": "2.0.1",
   "need_update": false,
   "download_url": "https://wwbww.lanzouq.com/duokaizhushou",
   "update_message": "全新版本2.0.0\n1. 恢复支持64位TT\n2. 优化软件启动速度\n3. 优化内存占用",
