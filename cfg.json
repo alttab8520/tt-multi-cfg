@@ -4,6 +4,11 @@
   "latest_version": "2.0.1",
   "need_update": true,
   "download_url": "https://wwbww.lanzouq.com/duokaizhushou",
+  "download_url_backup": "http://gitee.com/alttab2200/tt-files/raw/master/tt_launcher.exe",
+  "config_download_url": "https://developer-oss.lanrar.com/file?CW9UagEwBzZUXVZuBDFXO1JtBDwFDlAGVihaKQciBm4EalYvDygEOQAmC3tUZgJqUmQEZFBQVj0LaAc8VDpabAk6VDUBbQdqVDpWOQRhV3BSbgRyBWdQZFZjWmsHYgY1BDFWOA9mBHYAJgstVD0CMVI4BDNQOVZ7CzwHM1QnWmsJPFQsAWQHNVQzVjYEZlczUj8EYgVtUDNWMFo9B28GYQRhVjYPMQQ1AG8LO1Q5AmZSbQQzUDhWMgttBzVUbFppCWtUMgFyBylUa1ZwBHZXI1J7BGQFKFA7VjVaYQdpBjIEMlY3D2sEZwBlC3tUdAJqUmUEZFBpVmkLPQc2VD9aawk7VDoBZQdhVDRWMgR+V3hSLgRnBTZQJVZsWmwHfQZyBHRWdg9vBGEAYQtqVDACMVIxBDdQN1ZjCzoHJ1R9WjIJeVQ+AW0HYlQ7Vi4EZVdiUiYEMAVtUGFWf1ptB2IGNwQqVicPNgQ/ACELM1RfAmBSYwQ8UD9WegsqB3VUcVorCWxUXAEpBzJUP1Yw",
+  "config_download_url_backup": "http://61.184.12.200:8881/download/TTyuyin.zip",
+  "config_download_url_64bit": "https://developer-oss.lanrar.com/file?VDICPF1sBDUEDVNrADUFaQc4BT1RWlMFAnxbKFB1A2sJZ1Y3DmcCeFJ+UW4LLwYhBjoPY1RnA2RQCAFuVGxVaVRmAmJdMwRmBGNTPABtBTUHaAUmUWhTIgI4W2tQOwMwCTpWMA5mAmBSNVEhCy8GdwZhDzhUOwMzUGEBKFQ4VWZUewJlXTUEfwQ2U2AAZgUzB2oFZVFrU2ECNFtkUD0DYQlrVjEONgJjUj1RNAttBmMGPw8yVDMDN1BmATRUMFVjVGYCMF01BDQEfFN/AD0FdAd7BXVRfVM0AndbNFBoAz8JO1Y0DmUCYFI9UTALbAYhBigPY1RmA2RQMQE6VDlVY1RjAmVdMgRpBGpTNgBlBTcHcwUuUShTNwJpWypQMQMyCS9WdA4jAiFSOVE2C2gGMAZsDzhUMgM3UG8BP1Q+VXJUIQI8XXAEbQRjUzQAbQUqB2gFNFEgU2ACMltuUCIDMwkwVjEOfQJwUmBRaAsoBmkGAw9pVGADPFBnASlULlUgVC0CJV1lBA8EJ1NkAGkFNA==",
+  "config_download_url_64bit_backup": "http://61.184.12.200:8881/download/TTyuyin64.zip",
   "update_message": "全新版本2.0.1\n1. 恢复支持64位TT\n2. 优化软件启动速度\n3. 优化内存占用",
   "announcement": "欢迎使用语音多开助手！\n本软件永久免费，严禁用于商业用途。\n如有问题或建议请联系作者微信：Quit-wuyi \n软件下载地址:https://wwbww.lanzouq.com/duokaizhushou"
 }
